@@ -1,2 +1,5 @@
 # FlexBlog-Study
-FlexBlog site feito dos estudos do curso da Origamid
+
+## Site de estudo do curso de Flexbox ministrado pelo site Origamid
+
+FlexBlog é o projeto final do curso de FlexBox minsitrado pelo site Origamid
